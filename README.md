@@ -1,3 +1,2 @@
-# A-One-Step-Approach-for-Finding-Rectangle-Attacks
-
-CP code for EUROCRYPT-2024 accepted paper "A One-Step Approach for Finding Rectangle Attacks".
+# 
+CP code for EUROCRYPT-2024 accepted paper "Probabilistic Extensions: A One-Step Framework for Finding Rectangle Attacks and Beyond".
