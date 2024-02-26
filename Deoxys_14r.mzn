@@ -1,6 +1,6 @@
 
 /*
-The 14-round rectangle key recovery attack on Deoxys-BC-384.
+The 14-round one-step rectangle key recovery attack on Deoxys-BC-384.
 */
 
 array[0..15] of var 0..15: SP = array1d(0..15, [0,5,10,15,4,9,14,3,8,13,2,7,12,1,6,11]); % permutation of shiftrow
